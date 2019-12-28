@@ -1,0 +1,3 @@
+[submodule "submodule-demo-library"]
+	path = submodule-demo-library
+	url = git@github.com:YosepRA/submodule-demo-library.git
